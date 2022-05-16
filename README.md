@@ -10,8 +10,8 @@ There are 2 colab notebooks. One has inferences and fine-tuning for Fast-RCNN an
 
 | MODEL          | Inference Time (ns) | Fine-tuning time(s / it) | Parameter Count |
 | -------------- | ------------------- | ------------------------ | --------------- |
-| yolo-small     | 9.45                | 2.41                     | 30684768        |
-| RetinaNet      | 5.145837088         | 1.5744                   | 37915572        |
-| detr-resnet-50 | 10.77673547         | 3.971                    | 41309536        |
+| yolo-small     | 9.45                | 2.41                     | 30,684,768      |
+| RetinaNet      | 5.145837088         | 1.5744                   | 37,915,572      |
+| detr-resnet-50 | 10.77673547         | 3.971                    | 41,309,536      |
 | faster-rcnn    | 8.278814845         | 2.5273                   | 104,784,480     |
-| yolo-base      | 27.61568451         | 4.5                      | 127798368       |
+| yolo-base      | 27.61568451         | 4.5                      | 127,798,368     |
